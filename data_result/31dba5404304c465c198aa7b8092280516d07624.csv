@@ -1,0 +1,8 @@
+SolidityFile;ETHAddress;ContractName;Type;SLOC;LLOC;CLOC;NF;WMC;NL;NLE;NUMPAR;NOS;DIT;NOA;NOD;CBO;NA;NOI;Avg. McCC;Avg. NL;Avg. NLE;Avg. NUMPAR;Avg. NOS;Avg. NOI
+31dba5404304c465c198aa7b8092280516d07624.sol;data;MagicWhitelistStorage;library;15;13;0;1;1;0;0;0;2;0;0;0;0;1;0;1.0;0.0;0.0;0.0;2.0;0.0
+31dba5404304c465c198aa7b8092280516d07624.sol;data;IERC20Internal;interface;13;12;0;0;0;0;0;0;0;0;0;2;0;0;0;0.0;0.0;0.0;0.0;0.0;0.0
+31dba5404304c465c198aa7b8092280516d07624.sol;data;ReentrancyGuardStorage;library;14;12;0;1;1;0;0;0;2;0;0;0;0;1;0;1.0;0.0;0.0;0.0;2.0;0.0
+31dba5404304c465c198aa7b8092280516d07624.sol;data;ERC20BaseStorage;library;16;14;0;1;1;0;0;0;2;0;0;0;0;1;0;1.0;0.0;0.0;0.0;2.0;0.0
+31dba5404304c465c198aa7b8092280516d07624.sol;data;ERC20BaseInternal;contract;123;68;38;7;7;0;0;14;33;1;1;1;1;0;13;1.0;0.0;0.0;2.0;4.714285714285714;1.8571428571428572
+31dba5404304c465c198aa7b8092280516d07624.sol;data;MagicMintReentrancyFix;contract;9;9;0;1;1;0;0;2;2;2;3;0;0;0;2;1.0;0.0;0.0;2.0;2.0;2.0
+31dba5404304c465c198aa7b8092280516d07624.sol;data;ReentrancyGuard;contract;9;9;0;0;0;0;0;0;5;0;0;1;1;0;0;0.0;0.0;0.0;0.0;0.0;0.0
