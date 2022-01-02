@@ -2082,19 +2082,6 @@ contract WrappedToken is ERC20Permit, Pausable, Ownable {
 
 
 
-//SPDX-License-Identifier: Unlicense
-pragma solidity 0.7.6;
-pragma experimental ABIEncoderV2;
-
-import "@openzeppelin/contracts/token/ERC20/SafeERC20.sol";
-import "@openzeppelin/contracts/utils/Counters.sol";
-import "../WrappedToken.sol";
-import "../interfaces/IERC2612Permit.sol";
-import "../interfaces/IRouter.sol";
-import "../libraries/LibFeeCalculator.sol";
-import "../libraries/LibRouter.sol";
-import "../libraries/LibGovernance.sol";
-
 contract RouterFacet is IRouter {
     using Counters for Counters.Counter;
     using SafeERC20 for IERC20;
